@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/opcCalculadora"
+        android:title="Calculadora"
+    />
+    <item
+        android:id="@+id/opcColores"
+        android:title="Colores"
+    />
+    <item
+        android:id="@+id/opcAlinearTexto"
+        android:title="Alinear Texto"
+    />
+    <item
+        android:id="@+id/opcGaleria"
+        android:title="Galeria"
+    />
+    <item
+        android:id="@+id/opcTamanotexto"
+        android:title="Tamaño Texto"
+        />
+    <item
+        android:id="@+id/opcImagen"
+        android:title="Pulsar Imagen"
+        />
+    <item
+        android:id="@+id/opcCambiarTexto"
+        android:title="Cambiar Texto"
+        />
+
+
+</menu>
