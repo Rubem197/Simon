@@ -6,6 +6,6 @@ interface Comunicador {
     fun pulsarRojo()
     fun pulsarAmarillo()
     fun pulsarAzul()
-
+    fun iniciarPartida()
 
 }

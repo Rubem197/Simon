@@ -33,7 +33,7 @@
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="256dp"
             android:orientation="horizontal">
 
             <androidx.fragment.app.FragmentContainerView
@@ -47,7 +47,14 @@
                 android:name="com.example.simon.azulFragment"
                 android:layout_width="208dp"
                 android:layout_height="256dp" />
+
         </LinearLayout>
+
+        <androidx.fragment.app.FragmentContainerView
+            android:id="@+id/fragmentoIniciar"
+            android:name="com.example.simon.IniciarFragment"
+            android:layout_width="172dp"
+            android:layout_height="81dp" />
     </LinearLayout>
 
 

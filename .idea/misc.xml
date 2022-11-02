@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/rlindes/GitHub/Asignaturas/ProgramacionMovil/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/rlindes/GitHub/Asignaturas/ProgramacionMovil/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/rlindes/GitHub/Asignaturas/ProgramacionMovil/app/src/main/res/layout/fragment_amarillo.xml" value="0.3242753623188406" />
         <entry key="..\:/Users/rlindes/GitHub/Asignaturas/ProgramacionMovil/app/src/main/res/layout/fragment_azul.xml" value="0.3242753623188406" />
+        <entry key="..\:/Users/rlindes/GitHub/Asignaturas/ProgramacionMovil/app/src/main/res/layout/fragment_iniciar.xml" value="0.3625" />
         <entry key="..\:/Users/rlindes/GitHub/Asignaturas/ProgramacionMovil/app/src/main/res/layout/fragment_rojo.xml" value="0.3242753623188406" />
         <entry key="..\:/Users/rlindes/GitHub/Asignaturas/ProgramacionMovil/app/src/main/res/layout/fragment_verde.xml" value="0.3242753623188406" />
       </map>
